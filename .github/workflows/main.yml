@@ -1,5 +1,4 @@
-name: Final Workflow DO NOT USE
-
+name: Hello World Training Workflow
 on:
   workflow_dispatch:
   issues:
